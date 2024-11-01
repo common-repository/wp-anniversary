@@ -1,0 +1,265 @@
+# Copyright (C) 2013 WP Anniversary
+# This file is distributed under the same license as the WP Anniversary package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Anniversary trunk\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-anniversary\n"
+"POT-Creation-Date: 2013-05-09 10:32:47+00:00\n"
+"PO-Revision-Date: 2013-05-09 09:33+0100\n"
+"Last-Translator: Marcin Pietrzak <marcin@iworks.pl>\n"
+"Language-Team: Marcin Pietrzak <marcin@iworks.pl>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  wp-anniversary.pot (WP Anniversary trunk)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/index.php:9 includes/class-iworks-wp-anniversary.php:106
+#: includes/class-iworks-wp-anniversary.php:130
+#: includes/class-iworks-wp-anniversary-widget.php:32
+msgid "WP Anniversary"
+msgstr "WP Rocznica"
+
+#: admin/index.php:27 includes/class-iworks-wp-anniversary-widget.php:64
+#: includes/class-iworks-wp-anniversary-widget.php:67
+#: includes/class-iworks-wp-anniversary-widget.php:134
+msgid "WordPress 10th Anniversary"
+msgstr "WordPress 10ta rocznica"
+
+#: admin/index.php:29
+msgid "Happening in %d communities"
+msgstr "Dzieje się w %d społecznościach"
+
+#: admin/index.php:30
+msgid "Last update: %s"
+msgstr "Ostatnia aktualizacja: %s"
+
+#: admin/index.php:31 includes/class-iworks-wp-anniversary-widget.php:34
+#: includes/class-iworks-wp-anniversary-widget.php:86
+msgid ""
+"Celebrate the 10th anniversary of the very first WordPress release in 2003!"
+msgstr "Świętuj 10-tą rocznicę pierwszego wydania WordPressa w 2003 roku!"
+
+#: admin/index.php:32
+msgid "See all WordPress 10th Anniversary communities"
+msgstr "Zobacz wszystkie rocznicowe społeczności"
+
+#: admin/index.php:37
+msgid "Loved this Plugin?"
+msgstr "Lubisz tę wtyczkę?"
+
+#: admin/index.php:39
+msgid "Below are some links to help spread this plugin to other users"
+msgstr "Poniższe odnośniki mogą pomóc innym w znalezieniu wtyczki"
+
+#: admin/index.php:41
+msgid "Give it a 5 star on Wordpress.org"
+msgstr "Daj jej 5 gwiazdek na Wordpress.org"
+
+#: admin/index.php:42
+msgid "Link to it so others can easily find it"
+msgstr "Odnośnik do wtyczki, żeby było ją łatwo znaleźć"
+
+#: admin/index.php:48
+msgid "Need Assistance?"
+msgstr "Potrzebujesz pomocy?"
+
+#: admin/index.php:50
+msgid "Problems? The links bellow can be very helpful to you"
+msgstr "Poniższe odnośniki mogą pomóc"
+
+#: admin/index.php:52
+msgid "http://wordpress.org/tags/wp_anniversary"
+msgstr "http://wordpress.org/tags/wp_anniversary"
+
+#: admin/index.php:52
+msgid "Wordpress Help Forum"
+msgstr "Forum Wordpressa"
+
+#: etc/options.php:13
+msgid "City"
+msgstr "Miasto"
+
+#: etc/options.php:14 includes/class-iworks-wp-anniversary-widget.php:186
+msgid "--- select city ---"
+msgstr "--- wybierz miasto ---"
+
+#: etc/options.php:20
+msgid "Update meetup data"
+msgstr "Aktualizuj dane spotkań"
+
+#: etc/options.php:23
+msgid "none, only on this page"
+msgstr "aktualizacja tylko na tej stronie"
+
+#: etc/options.php:24
+msgid "hourly"
+msgstr "raz na godzinę"
+
+#: etc/options.php:25
+msgid "two times a day"
+msgstr "dwa razy dziennie"
+
+#: etc/options.php:25
+msgid "recomended"
+msgstr "polecane"
+
+#: etc/options.php:26
+msgid "daily"
+msgstr "raz dziennie"
+
+#: includes/class-iworks-options.php:92
+msgid "An error occurred while getting the configuration."
+msgstr "Błąd w pobieraniu konfiguracji."
+
+#: includes/class-iworks-options.php:486
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:32
+msgid "WP Anniversary - City List"
+msgstr "WP Rocznica - lista miast"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:34
+msgid ""
+"Celebrate the 10th anniversary of the very first WordPress release in 2003! "
+"Show city list."
+msgstr "Świętuj 10-tą rocznicę pierwszego wydania WordPressa w 2003 roku! Pokaż listę miast"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:39
+msgid "light"
+msgstr "jasne"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:40
+msgid "dark"
+msgstr "ciemne"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:105
+msgid "WordPress 10th Anniversary - City List"
+msgstr "WordPress 10ta rocznica - Lista Miast"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:131
+#: includes/class-iworks-wp-anniversary-widget.php:159
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:136
+msgid "Width:"
+msgstr "Szerokość:"
+
+#: includes/class-iworks-wp-anniversary-meetup-widget.php:141
+msgid "Background:"
+msgstr "Tło strony:"
+
+#: includes/class-iworks-wp-anniversary.php:109
+msgid "Overview"
+msgstr "Podsumowanie"
+
+#: includes/class-iworks-wp-anniversary.php:118
+msgid "For more information:"
+msgstr "Więcej informacji:"
+
+#: includes/class-iworks-wp-anniversary.php:119
+msgid ""
+"<a href=\"http://wordpress.org/extend/plugins/wp-anniversary/\" target="
+"\"_blank\">Plugin Homepage</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/extend/plugins/wp-anniversary/\" target="
+"\"_blank\">Strona domowa wtyczki</a>"
+
+#: includes/class-iworks-wp-anniversary.php:120
+msgid ""
+"<a href=\"http://wordpress.org/tags/wp-anniversary\" target=\"_blank"
+"\">Support Forums</a>"
+msgstr ""
+"<a href=\"http://wordpress.org/tags/wp-anniversary\" target=\"_blank"
+"\">Forum</a>"
+
+#: includes/class-iworks-wp-anniversary.php:121
+msgid "<a href=\"http://iworks.pl/en/\" target=\"_blank\">break the web</a>"
+msgstr "<a href=\"http://iworks.pl/en/\" target=\"_blank\">przełam sieć</a>"
+
+#: includes/class-iworks-wp-anniversary.php:139
+msgid ""
+"Please finish plugin configuration! Go to <a href=\"%s\">Settings -&gt; WP "
+"Anniversary</a> to obtain cites from meetup.com."
+msgstr ""
+"Aby ukończyć konfigurację przejć ma stronę: <a href=\"%s\">Ustawienia -&gt; "
+"WP Rocznica</a> w celu pobrania miejsc z meetup.com."
+
+#: includes/class-iworks-wp-anniversary.php:149
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/class-iworks-wp-anniversary.php:152
+msgid "Donate"
+msgstr "Donacja"
+
+#: includes/class-iworks-wp-anniversary.php:189
+msgid ""
+"<p>Unable to connect to meetup.com server at <a href='%s' "
+"target='_blank'>this URL</a>.</p>"
+msgstr ""
+"<p>Bra możliwości połączenia z serwere meetup.com <a href='%s' "
+"target='_blank'>this URL</a>.</p>"
+
+#: includes/class-iworks-wp-anniversary.php:238
+msgid "Meetups list sync successful."
+msgstr "Lista wydarzenień został zaaktualizowana."
+
+#: includes/class-iworks-wp-anniversary.php:245
+msgid "Error: %s. %s"
+msgstr "Błąd: %s. %s"
+
+#: includes/class-iworks-wp-anniversary-widget.php:39
+msgid "none"
+msgstr "brak"
+
+#: includes/class-iworks-wp-anniversary-widget.php:40
+msgid "wide"
+msgstr "szeroki"
+
+#: includes/class-iworks-wp-anniversary-widget.php:41
+msgid "square"
+msgstr "kwadrat"
+
+#: includes/class-iworks-wp-anniversary-widget.php:81
+msgid ""
+"Celebrate the 10th anniversary in %1$s with <strong>%2$d</strong> WordPress "
+"Enthusiasts."
+msgstr ""
+"Razem z <strong>%2$d</strong> entuzjastami świętuj 10-tą rocznice w %1$s."
+
+#: includes/class-iworks-wp-anniversary-widget.php:91
+msgid "Find a cool place that people can meet up and hang out to celebrate."
+msgstr "Znajdź fajne miejsce i świętuj 10-tą rocznicę."
+
+#: includes/class-iworks-wp-anniversary-widget.php:164
+msgid "Logo:"
+msgstr "Logo:"
+
+#: includes/class-iworks-wp-anniversary-widget.php:184
+msgid "City:"
+msgstr "Miasto:"
+
+#. #-#-#-#-#  wp-anniversary.pot (WP Anniversary trunk)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wp-anniversary.pot (WP Anniversary trunk)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://iworks.pl/"
+msgstr "http://iworks.pl/"
+
+#. Description of the plugin/theme
+msgid "WordPress Anniversary widget, badge."
+msgstr "WordPress Anniversary widget, badge."
+
+#. Author of the plugin/theme
+msgid "Marcin Pietrzak"
+msgstr "Marcin Pietrzak"
+
+#~ msgid "May 27, 2013"
+#~ msgstr "27. maj 2013"
+
+#~ msgid "Leave empty to show WP 10th Anniversary logo."
+#~ msgstr "Pozostaw puste, żeby wyświetlić rocznicowe logo."
